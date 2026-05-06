@@ -1,0 +1,15 @@
+{
+  "plantTypes": [
+    {
+      "id": "sunflower",
+      "name": "해바라기",
+      "stages": [
+        "assets/images/plants/plant_0.png",
+        "assets/images/plants/plant_1.png",
+        "assets/images/plants/plant_2.png",
+        "assets/images/plants/plant_3.png",
+        "assets/images/plants/plant_4.png"
+      ]
+    }
+  ]
+}
